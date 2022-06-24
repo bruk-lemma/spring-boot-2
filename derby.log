@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jun 24 22:24:13 EAT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-972c-0299-000001f5c420 
+on database directory memory:/home/bruk/Downloads/Compressed/course-API-data/40e62c01-b2cc-4a22-a819-b17ce1be220d with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/home/bruk/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=/home/bruk/Downloads/Compressed/course-API-data
+os.name=Linux
+os.arch=amd64
+os.version=5.13.0-41-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
